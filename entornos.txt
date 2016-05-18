@@ -2,11 +2,7 @@
 
 
 
+	mierda me he cargado el archivo
 
 
- primera version
- de la prueba
- de recuperacion 
- de versiones
-
-¡¡¡A POR ELLO!!!
+	esta es la segunda version
